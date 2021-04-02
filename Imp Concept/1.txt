@@ -1,0 +1,3 @@
+If bracket is present then last one is having highest priority
+Otherwise 
+First one will be evaluated
