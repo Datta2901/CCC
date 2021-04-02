@@ -1,0 +1,2 @@
+A number starting with 0 says that it is in octal system
+

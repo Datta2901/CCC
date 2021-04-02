@@ -1,0 +1,3 @@
+& and * are nullified 
+
+& waits for a 
